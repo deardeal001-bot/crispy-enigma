@@ -1,0 +1,9 @@
+{
+  "name": "amazon-creators-api",
+  "version": "1.0.0",
+  "description": "Simple API endpoint for Amazon Creators API, to be used in Blogger.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/amazon.js"
+  }
+}
